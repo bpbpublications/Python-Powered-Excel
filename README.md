@@ -2,6 +2,8 @@
 
 **Combining strength of Python and Excel for deliverables and complex tasks**
 
+This repository contains all the code files and datasets used in the book [**Python-Powered Excel**](https://in.bpbonline.com/products/python-powered-excel?variant=47925002207470).
+
 <img src="2561_Cover Page.jpg">
 <br>
 
@@ -39,7 +41,7 @@ Combining strength of both Python and Excel will allow you to build scalable wor
 
 ## About the Author
 
-Dr. Nisha Arora is a trainer and data professional specializing in simplifying data analysis and automation for learners.
+Dr. Nisha Arora is a trainer and data professional specializing in simplifying data analysis, AI/ML, and automation for learners.
 <br>
 
 ## 📥 Instructions for downloading the Code Bundle
