@@ -1,0 +1,501 @@
+Order ID,Date,Region,Category,Sub-Category,Sales,Profit,Quantity
+1,01-01-2024,North,Furniture,Chairs,92.75,109.72,6
+2,02-01-2024,West,Furniture,Chairs,151.96,88.78,4
+3,03-01-2024,South,Technology,Binders,234.38,20.39,9
+4,04-01-2024,North,Office Supplies,Binders,123.29,134.5,4
+5,05-01-2024,West,Office Supplies,Binders,74.02,-98.25,2
+6,06-01-2024,West,Technology,Binders,201.44,50.4,4
+7,07-01-2024,West,Technology,Chairs,155.27,-52.2,4
+8,08-01-2024,West,Office Supplies,Phones,412.9,53.84,1
+9,09-01-2024,South,Furniture,Storage,339.05,-66.31,8
+10,10-01-2024,West,Technology,Phones,68.3,3.55,3
+11,11-01-2024,South,Furniture,Phones,337.92,4.04,1
+12,12-01-2024,East,Technology,Binders,157.51,-61.24,7
+13,13-01-2024,North,Furniture,Chairs,206.52,-72.11,7
+14,14-01-2024,West,Technology,Chairs,197.52,-11.5,8
+15,15-01-2024,East,Office Supplies,Chairs,231.73,0.17,8
+16,16-01-2024,North,Technology,Storage,123.24,5.55,2
+17,17-01-2024,North,Office Supplies,Phones,71.97,-66.53,3
+18,18-01-2024,North,Furniture,Storage,72.92,10.21,9
+19,19-01-2024,East,Office Supplies,Storage,51,108.16,6
+20,20-01-2024,South,Office Supplies,Phones,115.25,-6.1,2
+21,21-01-2024,East,Technology,Storage,96.11,-31.61,8
+22,22-01-2024,West,Technology,Binders,18.72,75.71,4
+23,23-01-2024,West,Furniture,Phones,220.21,32.24,2
+24,24-01-2024,East,Office Supplies,Phones,74.42,-44.73,7
+25,25-01-2024,North,Furniture,Phones,72.46,-21.79,9
+26,26-01-2024,South,Furniture,Phones,335.46,77.66,3
+27,27-01-2024,South,Furniture,Chairs,101.38,-76.98,8
+28,28-01-2024,South,Technology,Storage,358.05,39.82,9
+29,29-01-2024,South,Furniture,Storage,95.47,-5.17,7
+30,30-01-2024,North,Office Supplies,Storage,162.09,50.03,9
+31,31-01-2024,South,Furniture,Phones,701.66,54.03,6
+32,01-02-2024,North,Technology,Storage,38.22,40,1
+33,02-02-2024,West,Office Supplies,Storage,26.39,21.55,1
+34,03-02-2024,North,Furniture,Phones,125.84,97.85,5
+35,04-02-2024,West,Office Supplies,Storage,83.69,-59.27,7
+36,05-02-2024,South,Technology,Phones,193.55,13.15,1
+37,06-02-2024,East,Furniture,Phones,349,-13.16,5
+38,07-02-2024,West,Furniture,Phones,84.18,-26.71,3
+39,08-02-2024,West,Furniture,Phones,351.69,59.78,3
+40,09-02-2024,North,Technology,Binders,319.15,27.53,5
+41,10-02-2024,East,Office Supplies,Storage,162.18,37.88,8
+42,11-02-2024,West,Furniture,Storage,91.22,68.22,2
+43,12-02-2024,North,Furniture,Binders,270.77,-18.08,7
+44,13-02-2024,South,Furniture,Storage,91.97,61.87,5
+45,14-02-2024,West,Furniture,Chairs,131.92,-20.14,7
+46,15-02-2024,South,Office Supplies,Binders,83,30.68,9
+47,16-02-2024,West,Technology,Chairs,113.62,102.28,7
+48,17-02-2024,West,Technology,Binders,121.54,7.38,3
+49,18-02-2024,East,Office Supplies,Binders,109.09,-25.67,8
+50,19-02-2024,West,Furniture,Binders,33.61,73.91,5
+51,20-02-2024,North,Office Supplies,Storage,76.37,-78.43,1
+52,21-02-2024,South,Office Supplies,Storage,295.14,67,2
+53,22-02-2024,South,Office Supplies,Chairs,254.56,43.16,7
+54,23-02-2024,South,Office Supplies,Chairs,109.57,-103.75,5
+55,24-02-2024,West,Office Supplies,Binders,81.97,16.83,1
+56,25-02-2024,North,Office Supplies,Binders,741.6,36.54,1
+57,26-02-2024,West,Technology,Chairs,250.6,0.68,3
+58,27-02-2024,East,Technology,Chairs,49.75,-14.47,8
+59,28-02-2024,North,Office Supplies,Binders,56.18,100.54,7
+60,29-02-2024,West,Office Supplies,Binders,58.55,124.3,7
+61,01-03-2024,West,Office Supplies,Binders,86.07,31.64,8
+62,02-03-2024,East,Technology,Binders,249.21,63.69,8
+63,03-03-2024,West,Furniture,Chairs,24.67,-63.41,1
+64,04-03-2024,East,Furniture,Phones,209.01,117.33,5
+65,05-03-2024,West,Furniture,Chairs,231.48,13.23,2
+66,06-03-2024,North,Office Supplies,Chairs,495.54,17.59,5
+67,07-03-2024,East,Furniture,Phones,269.09,86.78,6
+68,08-03-2024,North,Office Supplies,Phones,91,99.15,1
+69,09-03-2024,North,Furniture,Storage,171.85,44.74,7
+70,10-03-2024,North,Technology,Storage,35.18,72.28,5
+71,11-03-2024,South,Technology,Chairs,278.53,-32.12,5
+72,12-03-2024,South,Office Supplies,Chairs,169.86,-43.77,2
+73,13-03-2024,East,Furniture,Phones,153.88,-61.9,8
+74,14-03-2024,North,Furniture,Phones,169.17,-14.49,1
+75,15-03-2024,North,Furniture,Storage,110.19,-39.57,2
+76,16-03-2024,South,Furniture,Storage,169.44,15.37,3
+77,17-03-2024,West,Furniture,Phones,73.94,30,9
+78,18-03-2024,North,Technology,Chairs,192.81,44.62,8
+79,19-03-2024,South,Office Supplies,Binders,159.22,-55.22,9
+80,20-03-2024,East,Furniture,Phones,128.94,10.72,1
+81,21-03-2024,East,Technology,Binders,442.36,-64.33,1
+82,22-03-2024,West,Furniture,Binders,243.43,-4.5,1
+83,23-03-2024,North,Technology,Chairs,236.13,50.37,3
+84,24-03-2024,South,Office Supplies,Chairs,186.58,116,7
+85,25-03-2024,South,Furniture,Binders,161.38,-43.69,9
+86,26-03-2024,West,Furniture,Storage,86.72,41.64,4
+87,27-03-2024,South,Technology,Chairs,160.28,22.08,8
+88,28-03-2024,South,Office Supplies,Storage,75.58,77.1,4
+89,29-03-2024,West,Technology,Phones,400.01,62.92,4
+90,30-03-2024,East,Technology,Phones,176.48,15.9,6
+91,31-03-2024,West,Office Supplies,Binders,62.7,42.4,6
+92,01-04-2024,West,Furniture,Binders,423.29,0.02,5
+93,02-04-2024,East,Furniture,Phones,290.09,13.67,9
+94,03-04-2024,East,Technology,Phones,320.04,-8.35,3
+95,04-04-2024,West,Office Supplies,Binders,224.64,-14.06,9
+96,05-04-2024,North,Office Supplies,Phones,29.92,48.56,6
+97,06-04-2024,East,Furniture,Chairs,152.56,-15.48,8
+98,07-04-2024,West,Furniture,Chairs,334.39,121.17,6
+99,08-04-2024,South,Technology,Storage,95.34,41.66,5
+100,09-04-2024,North,Furniture,Storage,94.47,-7.13,5
+101,10-04-2024,South,Office Supplies,Binders,491.75,52.29,8
+102,11-04-2024,East,Technology,Chairs,79.05,79.97,9
+103,12-04-2024,North,Technology,Binders,169.65,-30.1,9
+104,13-04-2024,West,Office Supplies,Storage,165.23,1.75,6
+105,14-04-2024,North,Furniture,Chairs,168.16,15.84,7
+106,15-04-2024,East,Furniture,Chairs,80.23,63.06,7
+107,16-04-2024,North,Office Supplies,Storage,101.4,13.14,4
+108,17-04-2024,West,Furniture,Binders,213.01,-66.27,7
+109,18-04-2024,West,Furniture,Storage,650.84,-26.79,1
+110,19-04-2024,North,Technology,Storage,212.22,-19.59,6
+111,20-04-2024,West,Furniture,Phones,331.38,6.67,7
+112,21-04-2024,North,Furniture,Binders,173.41,54.26,6
+113,22-04-2024,North,Office Supplies,Binders,305.58,67.39,5
+114,23-04-2024,North,Office Supplies,Phones,235.07,37.08,4
+115,24-04-2024,North,Office Supplies,Chairs,210.19,-9.36,1
+116,25-04-2024,East,Office Supplies,Storage,326.39,-6.56,6
+117,26-04-2024,West,Office Supplies,Storage,284.51,-4.32,2
+118,27-04-2024,North,Office Supplies,Binders,106.3,68.87,6
+119,28-04-2024,West,Technology,Binders,87.41,-7.8,2
+120,29-04-2024,East,Furniture,Binders,170.94,-10.28,2
+121,30-04-2024,West,Technology,Chairs,125.66,22.64,9
+122,01-05-2024,West,Furniture,Chairs,45.89,117.19,8
+123,02-05-2024,South,Office Supplies,Storage,31.82,0.93,4
+124,03-05-2024,South,Furniture,Phones,119.55,138.83,6
+125,04-05-2024,South,Technology,Binders,364.49,82.93,3
+126,05-05-2024,North,Furniture,Phones,189.94,47.16,7
+127,06-05-2024,South,Furniture,Storage,169.4,-1.5,4
+128,07-05-2024,South,Office Supplies,Storage,179.84,106.61,9
+129,08-05-2024,South,Technology,Phones,152.28,44.94,5
+130,09-05-2024,West,Office Supplies,Binders,209.79,17.63,9
+131,10-05-2024,North,Office Supplies,Storage,348.88,35.94,1
+132,11-05-2024,West,Office Supplies,Storage,97.72,24.28,9
+133,12-05-2024,South,Furniture,Binders,274.24,-2.12,5
+134,13-05-2024,East,Furniture,Storage,63.77,-34.5,1
+135,14-05-2024,North,Technology,Storage,173.33,-20.82,6
+136,15-05-2024,South,Furniture,Phones,25.77,-27.19,6
+137,16-05-2024,East,Furniture,Chairs,174.52,-37.7,3
+138,17-05-2024,North,Technology,Storage,140.71,44.84,5
+139,18-05-2024,East,Office Supplies,Storage,319.14,102.2,9
+140,19-05-2024,North,Technology,Phones,107.6,47.18,9
+141,20-05-2024,South,Technology,Chairs,96.3,43.79,5
+142,21-05-2024,West,Furniture,Chairs,235.37,5.77,2
+143,22-05-2024,East,Technology,Phones,42.25,77.16,9
+144,23-05-2024,East,Technology,Storage,580.54,57.16,9
+145,24-05-2024,South,Furniture,Binders,78.74,13.14,9
+146,25-05-2024,North,Technology,Phones,36.35,-10.4,4
+147,26-05-2024,West,Office Supplies,Phones,40.22,31.72,4
+148,27-05-2024,South,Furniture,Chairs,93.09,-85.29,3
+149,28-05-2024,South,Office Supplies,Phones,218.76,50.85,6
+150,29-05-2024,West,Technology,Binders,192.46,94.38,8
+151,30-05-2024,North,Office Supplies,Phones,107.99,57.31,6
+152,31-05-2024,East,Office Supplies,Phones,55.74,22.44,9
+153,01-06-2024,East,Furniture,Chairs,81.84,3.21,8
+154,02-06-2024,West,Office Supplies,Binders,43.32,59.57,1
+155,03-06-2024,East,Office Supplies,Binders,53.17,-3.28,3
+156,04-06-2024,West,Office Supplies,Storage,325.36,51.83,8
+157,05-06-2024,West,Technology,Chairs,216.49,128.77,4
+158,06-06-2024,West,Furniture,Binders,147.71,25.24,6
+159,07-06-2024,East,Office Supplies,Binders,48.94,-30.21,2
+160,08-06-2024,South,Office Supplies,Phones,391.65,41.93,6
+161,09-06-2024,East,Furniture,Storage,172.56,26.34,2
+162,10-06-2024,East,Office Supplies,Chairs,687.91,42.25,2
+163,11-06-2024,West,Technology,Binders,218.29,24.05,3
+164,12-06-2024,East,Furniture,Storage,468.45,25.32,5
+165,13-06-2024,West,Office Supplies,Chairs,135.46,36.35,4
+166,14-06-2024,West,Technology,Phones,129.55,-141.11,2
+167,15-06-2024,East,Office Supplies,Binders,80.02,48.01,2
+168,16-06-2024,East,Technology,Storage,67.55,-17.49,3
+169,17-06-2024,West,Office Supplies,Chairs,491.66,80.07,9
+170,18-06-2024,North,Technology,Binders,83.88,81.99,2
+171,19-06-2024,South,Office Supplies,Chairs,107.03,102.41,8
+172,20-06-2024,East,Technology,Phones,218.5,51.98,9
+173,21-06-2024,West,Technology,Phones,396.63,-95.66,3
+174,22-06-2024,East,Technology,Storage,157.21,45.88,7
+175,23-06-2024,South,Technology,Storage,202.35,28.52,6
+176,24-06-2024,East,Furniture,Binders,241.1,114.87,2
+177,25-06-2024,South,Technology,Storage,152.11,82.74,7
+178,26-06-2024,North,Technology,Binders,420.93,90.56,3
+179,27-06-2024,East,Technology,Chairs,119.1,26.58,6
+180,28-06-2024,East,Technology,Binders,304.85,14.78,7
+181,29-06-2024,West,Furniture,Phones,82.87,-9.67,2
+182,30-06-2024,North,Office Supplies,Phones,123.79,-23.52,6
+183,01-07-2024,West,Furniture,Storage,319.48,-25.39,9
+184,02-07-2024,East,Technology,Phones,110.47,46.43,5
+185,03-07-2024,West,Furniture,Binders,157.19,82.2,7
+186,04-07-2024,North,Furniture,Chairs,272.63,8.31,6
+187,05-07-2024,North,Technology,Phones,292.12,18.56,7
+188,06-07-2024,East,Office Supplies,Phones,197.52,51.55,1
+189,07-07-2024,North,Technology,Binders,418.02,22.11,3
+190,08-07-2024,East,Technology,Binders,119.52,28.49,6
+191,09-07-2024,West,Office Supplies,Binders,78.15,61.16,7
+192,10-07-2024,East,Office Supplies,Binders,217.52,-32.95,3
+193,11-07-2024,East,Technology,Chairs,148.69,-41.18,2
+194,12-07-2024,West,Office Supplies,Binders,229.07,19.01,5
+195,13-07-2024,North,Technology,Storage,119.56,67.76,9
+196,14-07-2024,North,Office Supplies,Chairs,278.76,1.05,9
+197,15-07-2024,North,Technology,Chairs,230.33,-7.79,4
+198,16-07-2024,South,Furniture,Storage,190.83,-11.39,8
+199,17-07-2024,East,Office Supplies,Phones,206.85,1.39,3
+200,18-07-2024,North,Office Supplies,Storage,225.85,62.24,2
+201,19-07-2024,South,Technology,Phones,58.08,16.25,2
+202,20-07-2024,East,Technology,Binders,124.58,-6.99,2
+203,21-07-2024,West,Furniture,Phones,117.87,30.65,7
+204,22-07-2024,East,Technology,Storage,180.55,82.16,4
+205,23-07-2024,East,Office Supplies,Chairs,197.88,-10.84,7
+206,24-07-2024,West,Technology,Storage,194.05,15.31,6
+207,25-07-2024,South,Furniture,Binders,246.68,39.47,5
+208,26-07-2024,North,Office Supplies,Binders,24.89,56.82,3
+209,27-07-2024,North,Technology,Binders,68.01,86.41,8
+210,28-07-2024,North,Furniture,Storage,489.64,8.48,9
+211,29-07-2024,West,Technology,Binders,84.02,-7.5,9
+212,30-07-2024,West,Office Supplies,Phones,74.83,43.99,1
+213,31-07-2024,North,Technology,Binders,195.99,61.99,8
+214,01-08-2024,East,Office Supplies,Chairs,179.54,44.27,9
+215,02-08-2024,East,Furniture,Binders,118.37,-91.22,9
+216,03-08-2024,North,Furniture,Phones,61.34,109.27,8
+217,04-08-2024,North,Office Supplies,Storage,64.85,37.85,5
+218,05-08-2024,West,Furniture,Chairs,62.18,-35.48,7
+219,06-08-2024,North,Technology,Storage,87.07,22.5,7
+220,07-08-2024,South,Furniture,Phones,185.08,-4,9
+221,08-08-2024,East,Office Supplies,Storage,284.19,90.02,4
+222,09-08-2024,North,Technology,Phones,345.5,-22.49,8
+223,10-08-2024,North,Furniture,Phones,224.24,-40.47,9
+224,11-08-2024,West,Technology,Phones,26.46,66.09,5
+225,12-08-2024,South,Furniture,Binders,258.15,28.44,3
+226,13-08-2024,West,Furniture,Phones,356.02,-7.82,4
+227,14-08-2024,North,Office Supplies,Binders,229.46,-20.87,1
+228,15-08-2024,East,Furniture,Binders,100.66,-43.17,5
+229,16-08-2024,South,Office Supplies,Storage,89.93,132.99,9
+230,17-08-2024,South,Furniture,Storage,75.88,84.76,1
+231,18-08-2024,South,Technology,Phones,147.32,9.36,5
+232,19-08-2024,West,Furniture,Storage,342.1,18.21,3
+233,20-08-2024,North,Technology,Chairs,46.16,60.48,7
+234,21-08-2024,North,Office Supplies,Storage,389.12,69.77,3
+235,22-08-2024,North,Furniture,Phones,195.25,50.97,3
+236,23-08-2024,South,Technology,Storage,52.33,-73.66,3
+237,24-08-2024,South,Furniture,Storage,179.69,28.36,8
+238,25-08-2024,East,Technology,Phones,220.92,75.67,7
+239,26-08-2024,South,Furniture,Binders,206.13,110.32,7
+240,27-08-2024,North,Technology,Storage,226.25,23.69,1
+241,28-08-2024,North,Technology,Binders,158.84,63.96,3
+242,29-08-2024,South,Furniture,Storage,41.69,15.39,2
+243,30-08-2024,East,Furniture,Binders,178.22,109.33,5
+244,31-08-2024,South,Technology,Storage,319.61,17.35,7
+245,01-09-2024,South,Office Supplies,Storage,78.45,36.42,4
+246,02-09-2024,West,Office Supplies,Binders,212.74,69.29,9
+247,03-09-2024,South,Office Supplies,Phones,120.04,-6.57,8
+248,04-09-2024,North,Office Supplies,Storage,129.04,115.52,6
+249,05-09-2024,North,Furniture,Chairs,120.05,45.1,1
+250,06-09-2024,North,Technology,Storage,83.24,49.15,3
+251,07-09-2024,West,Office Supplies,Chairs,270.32,71.99,2
+252,08-09-2024,West,Office Supplies,Chairs,173.45,-30.53,1
+253,09-09-2024,South,Office Supplies,Chairs,31.99,9.55,6
+254,10-09-2024,East,Office Supplies,Binders,88.79,64.88,8
+255,11-09-2024,South,Technology,Storage,280.09,29.06,4
+256,12-09-2024,West,Furniture,Phones,158.35,61.34,5
+257,13-09-2024,South,Technology,Binders,60.87,11.84,5
+258,14-09-2024,West,Office Supplies,Binders,162.7,139.1,8
+259,15-09-2024,North,Office Supplies,Phones,103.71,23.48,2
+260,16-09-2024,North,Office Supplies,Storage,130.02,31.86,8
+261,17-09-2024,West,Office Supplies,Phones,389.67,81.15,8
+262,18-09-2024,South,Technology,Phones,239.83,61.12,9
+263,19-09-2024,East,Furniture,Binders,275.09,-29.64,6
+264,20-09-2024,North,Office Supplies,Chairs,38.54,-152.03,7
+265,21-09-2024,East,Technology,Storage,145.88,61.44,2
+266,22-09-2024,West,Office Supplies,Binders,220.37,60.85,1
+267,23-09-2024,West,Office Supplies,Storage,402.77,-27.09,1
+268,24-09-2024,East,Office Supplies,Binders,145.41,26.01,1
+269,25-09-2024,West,Technology,Phones,66.98,80.12,3
+270,26-09-2024,South,Furniture,Storage,100.37,-63.91,4
+271,27-09-2024,South,Technology,Binders,316.64,-9.65,2
+272,28-09-2024,South,Technology,Storage,150.13,72.53,7
+273,29-09-2024,West,Technology,Chairs,58.18,20.22,5
+274,30-09-2024,East,Technology,Chairs,172.82,20.21,1
+275,01-10-2024,North,Technology,Storage,150.65,-69.36,9
+276,02-10-2024,North,Furniture,Storage,133.99,-15.98,9
+277,03-10-2024,South,Office Supplies,Storage,196.31,-38.65,7
+278,04-10-2024,North,Office Supplies,Storage,176.97,101.07,5
+279,05-10-2024,West,Technology,Binders,39.25,44.9,6
+280,06-10-2024,East,Technology,Phones,50.45,7.11,6
+281,07-10-2024,West,Technology,Binders,286.13,-18.67,8
+282,08-10-2024,West,Office Supplies,Chairs,134.37,40.35,8
+283,09-10-2024,East,Office Supplies,Chairs,145.7,-34.29,4
+284,10-10-2024,North,Office Supplies,Binders,149.94,73.91,6
+285,11-10-2024,East,Technology,Chairs,379.3,39.57,6
+286,12-10-2024,West,Technology,Binders,142.99,-3.94,5
+287,13-10-2024,East,Office Supplies,Chairs,194.8,-59.41,1
+288,14-10-2024,East,Technology,Phones,245.05,14.66,6
+289,15-10-2024,South,Furniture,Storage,173.89,-57.33,7
+290,16-10-2024,South,Office Supplies,Chairs,208.32,46.73,8
+291,17-10-2024,West,Office Supplies,Binders,482.93,2.36,1
+292,18-10-2024,West,Technology,Storage,35.96,46.84,9
+293,19-10-2024,North,Furniture,Binders,319.09,8.89,1
+294,20-10-2024,West,Office Supplies,Storage,270.48,17.74,8
+295,21-10-2024,North,Furniture,Storage,298.93,41.37,9
+296,22-10-2024,North,Furniture,Storage,212.56,-17.21,9
+297,23-10-2024,East,Technology,Phones,199.59,-28.74,5
+298,24-10-2024,East,Office Supplies,Chairs,188.04,-16.75,1
+299,25-10-2024,West,Furniture,Binders,287.27,64.8,4
+300,26-10-2024,South,Office Supplies,Chairs,150.39,-1.01,7
+301,27-10-2024,South,Technology,Phones,529.87,-97.13,9
+302,28-10-2024,North,Office Supplies,Binders,157.09,-13.73,4
+303,29-10-2024,West,Technology,Phones,98.25,-41.61,5
+304,30-10-2024,North,Office Supplies,Storage,330.36,-19.1,5
+305,31-10-2024,East,Office Supplies,Binders,130.81,-46.76,5
+306,01-11-2024,West,Technology,Chairs,124.91,6.46,2
+307,02-11-2024,West,Furniture,Storage,201.22,-18.56,4
+308,03-11-2024,South,Furniture,Binders,343.29,3.09,9
+309,04-11-2024,West,Office Supplies,Storage,133.42,52.56,9
+310,05-11-2024,South,Office Supplies,Storage,357.94,46.81,4
+311,06-11-2024,West,Office Supplies,Phones,145.26,12.28,3
+312,07-11-2024,East,Furniture,Binders,109.11,26.46,2
+313,08-11-2024,North,Technology,Phones,418.82,108.13,5
+314,09-11-2024,South,Technology,Binders,339.71,-0.79,8
+315,10-11-2024,South,Technology,Phones,18.49,35.29,7
+316,11-11-2024,West,Furniture,Chairs,254.98,-31.31,9
+317,12-11-2024,West,Technology,Binders,75.66,15.23,1
+318,13-11-2024,West,Furniture,Chairs,20,-7.04,2
+319,14-11-2024,South,Office Supplies,Binders,58.63,-0.11,2
+320,15-11-2024,South,Technology,Binders,53.91,-45.4,4
+321,16-11-2024,South,Technology,Chairs,306.29,-56.36,8
+322,17-11-2024,West,Furniture,Phones,77.07,88.27,9
+323,18-11-2024,West,Office Supplies,Chairs,245.98,13.96,5
+324,19-11-2024,East,Technology,Chairs,224.56,48.88,7
+325,20-11-2024,East,Furniture,Binders,192.62,56.42,3
+326,21-11-2024,East,Furniture,Phones,308.14,17.81,7
+327,22-11-2024,North,Technology,Storage,283.81,-72.55,1
+328,23-11-2024,West,Office Supplies,Phones,250.43,-4.69,1
+329,24-11-2024,West,Technology,Chairs,201.48,-4.87,3
+330,25-11-2024,South,Furniture,Storage,119.35,101.08,1
+331,26-11-2024,East,Furniture,Chairs,146.59,-1.8,6
+332,27-11-2024,West,Furniture,Storage,287.04,70.34,1
+333,28-11-2024,South,Office Supplies,Phones,86.84,23.46,5
+334,29-11-2024,West,Furniture,Chairs,208.7,118.67,8
+335,30-11-2024,West,Office Supplies,Binders,85.04,81.85,8
+336,01-12-2024,South,Furniture,Storage,506.46,-51.81,2
+337,02-12-2024,South,Office Supplies,Storage,323.97,27.57,9
+338,03-12-2024,South,Technology,Storage,197.56,25.92,7
+339,04-12-2024,North,Office Supplies,Storage,105.32,-10.2,6
+340,05-12-2024,East,Technology,Storage,61.27,55.92,2
+341,06-12-2024,East,Office Supplies,Binders,245.58,55.62,6
+342,07-12-2024,North,Technology,Chairs,211.17,15.96,5
+343,08-12-2024,South,Office Supplies,Binders,229.34,-0.4,3
+344,09-12-2024,South,Technology,Phones,246.57,-8.61,7
+345,10-12-2024,North,Furniture,Chairs,131.78,-10.85,2
+346,11-12-2024,West,Technology,Binders,27.8,-42.73,2
+347,12-12-2024,North,Office Supplies,Chairs,341.26,-25.34,8
+348,13-12-2024,North,Furniture,Phones,256.58,14.74,6
+349,14-12-2024,West,Furniture,Binders,363.95,36.47,5
+350,15-12-2024,East,Technology,Phones,101.58,10.94,2
+351,16-12-2024,South,Technology,Storage,115.22,19.32,6
+352,17-12-2024,East,Furniture,Chairs,125.47,-11.88,8
+353,18-12-2024,South,Technology,Chairs,588.15,81.86,9
+354,19-12-2024,East,Furniture,Binders,240.8,6.6,3
+355,20-12-2024,North,Furniture,Phones,217.48,46.9,5
+356,21-12-2024,East,Technology,Chairs,42.2,-22.56,8
+357,22-12-2024,North,Technology,Storage,558.39,10.43,3
+358,23-12-2024,South,Office Supplies,Storage,474.98,11.38,9
+359,24-12-2024,South,Technology,Phones,81.28,22.88,3
+360,25-12-2024,South,Furniture,Phones,227.39,119.7,2
+361,26-12-2024,North,Furniture,Binders,247.81,11.79,9
+362,27-12-2024,West,Office Supplies,Phones,47.87,3.35,8
+363,28-12-2024,North,Office Supplies,Storage,246.72,35.28,2
+364,29-12-2024,West,Furniture,Storage,325.22,61.25,4
+365,30-12-2024,North,Office Supplies,Chairs,241.24,67.84,6
+366,31-12-2024,North,Furniture,Storage,86.92,122.63,9
+367,01-01-2025,North,Technology,Storage,54.72,92.23,2
+368,02-01-2025,North,Furniture,Chairs,179.8,29.91,4
+369,03-01-2025,South,Office Supplies,Binders,464.23,-20.3,2
+370,04-01-2025,West,Technology,Phones,240.29,68.37,3
+371,05-01-2025,West,Furniture,Chairs,78.29,4.41,8
+372,06-01-2025,North,Furniture,Chairs,472.51,56.1,6
+373,07-01-2025,West,Office Supplies,Binders,104.17,-68.09,9
+374,08-01-2025,East,Office Supplies,Phones,188.08,70.59,6
+375,09-01-2025,East,Furniture,Phones,20.13,10.13,4
+376,10-01-2025,South,Technology,Phones,211.4,6.44,3
+377,11-01-2025,South,Office Supplies,Chairs,149.5,12.08,6
+378,12-01-2025,South,Technology,Storage,120.01,-6.46,5
+379,13-01-2025,East,Office Supplies,Storage,113.21,95.54,9
+380,14-01-2025,South,Technology,Chairs,257.21,1.14,2
+381,15-01-2025,South,Furniture,Storage,101.08,23.55,1
+382,16-01-2025,North,Technology,Binders,135.76,14.87,9
+383,17-01-2025,South,Furniture,Storage,125.65,21.31,9
+384,18-01-2025,East,Technology,Chairs,82.15,30.56,5
+385,19-01-2025,South,Furniture,Storage,107.99,17.31,1
+386,20-01-2025,South,Furniture,Binders,128.14,-25.2,5
+387,21-01-2025,North,Technology,Storage,90.67,44.18,3
+388,22-01-2025,North,Office Supplies,Storage,83.26,45.46,8
+389,23-01-2025,South,Furniture,Binders,139.84,17.85,5
+390,24-01-2025,South,Technology,Phones,362.55,-1.81,5
+391,25-01-2025,East,Furniture,Binders,215.52,21.59,6
+392,26-01-2025,West,Furniture,Storage,180.58,-52.01,7
+393,27-01-2025,West,Technology,Phones,184.56,57.7,4
+394,28-01-2025,South,Furniture,Phones,99.43,9.7,8
+395,29-01-2025,West,Office Supplies,Chairs,81.41,-22.57,1
+396,30-01-2025,West,Technology,Chairs,70.01,3.57,5
+397,31-01-2025,West,Furniture,Binders,407.87,21.99,5
+398,01-02-2025,East,Technology,Binders,260.64,47.13,6
+399,02-02-2025,East,Technology,Binders,97.74,163,9
+400,03-02-2025,South,Office Supplies,Storage,236.7,2.22,6
+401,04-02-2025,East,Technology,Binders,70.32,88.34,7
+402,05-02-2025,West,Technology,Chairs,298.68,101.8,2
+403,06-02-2025,East,Technology,Binders,237.93,38.07,5
+404,07-02-2025,North,Technology,Phones,246.57,7.51,6
+405,08-02-2025,West,Technology,Chairs,671.71,61.36,4
+406,09-02-2025,West,Furniture,Phones,118.91,100.41,7
+407,10-02-2025,South,Technology,Storage,119.82,62,9
+408,11-02-2025,South,Furniture,Binders,200.6,95.63,8
+409,12-02-2025,South,Furniture,Chairs,451.48,-34.46,5
+410,13-02-2025,East,Office Supplies,Phones,85.48,113.69,8
+411,14-02-2025,South,Office Supplies,Chairs,308.44,6.88,9
+412,15-02-2025,South,Technology,Phones,114.29,-22.08,2
+413,16-02-2025,South,Office Supplies,Chairs,219.42,50.61,5
+414,17-02-2025,East,Furniture,Phones,287.3,65.97,6
+415,18-02-2025,North,Technology,Storage,200.07,41.22,6
+416,19-02-2025,West,Office Supplies,Phones,109.03,58.41,4
+417,20-02-2025,South,Furniture,Phones,288.02,-19.34,9
+418,21-02-2025,North,Office Supplies,Chairs,111.74,42,4
+419,22-02-2025,West,Technology,Phones,167,26.47,6
+420,23-02-2025,South,Office Supplies,Phones,309.05,-14.14,4
+421,24-02-2025,South,Technology,Binders,438.51,-3.68,5
+422,25-02-2025,East,Technology,Phones,222.11,-35.28,7
+423,26-02-2025,North,Office Supplies,Binders,368.17,-22.91,2
+424,27-02-2025,East,Technology,Chairs,107.89,60.64,8
+425,28-02-2025,West,Technology,Phones,340.83,64.78,7
+426,01-03-2025,North,Technology,Storage,187.44,-35.21,6
+427,02-03-2025,East,Technology,Chairs,340.54,53.03,3
+428,03-03-2025,North,Office Supplies,Storage,184.28,126.56,4
+429,04-03-2025,East,Technology,Binders,19.44,42.55,6
+430,05-03-2025,North,Technology,Binders,113.12,-71.5,9
+431,06-03-2025,North,Technology,Storage,307.21,20.29,4
+432,07-03-2025,West,Technology,Storage,112.04,-29.47,2
+433,08-03-2025,West,Furniture,Storage,107.83,-36.71,7
+434,09-03-2025,West,Office Supplies,Chairs,725.66,13.91,8
+435,10-03-2025,North,Office Supplies,Storage,140.86,76.88,9
+436,11-03-2025,North,Furniture,Phones,127.36,48.1,2
+437,12-03-2025,West,Office Supplies,Chairs,89.8,11.5,8
+438,13-03-2025,South,Furniture,Binders,486.11,34.3,4
+439,14-03-2025,West,Office Supplies,Storage,42.52,-54.14,8
+440,15-03-2025,East,Office Supplies,Binders,3.52,102.2,5
+441,16-03-2025,West,Technology,Phones,55.5,72.72,2
+442,17-03-2025,North,Furniture,Storage,352.47,71.57,2
+443,18-03-2025,West,Furniture,Binders,149.5,31.3,9
+444,19-03-2025,North,Office Supplies,Phones,206.38,82.76,3
+445,20-03-2025,West,Furniture,Storage,327.61,13.44,1
+446,21-03-2025,West,Technology,Phones,268.27,37.96,9
+447,22-03-2025,South,Office Supplies,Storage,6.88,-17.21,6
+448,23-03-2025,East,Office Supplies,Phones,44.71,-46.12,6
+449,24-03-2025,South,Technology,Binders,240.07,23.77,4
+450,25-03-2025,North,Furniture,Chairs,294.48,19.3,1
+451,26-03-2025,North,Furniture,Storage,54.91,22.04,2
+452,27-03-2025,West,Office Supplies,Storage,186.43,66.24,8
+453,28-03-2025,North,Office Supplies,Chairs,69.65,34.1,5
+454,29-03-2025,West,Technology,Binders,246.99,-31.14,5
+455,30-03-2025,North,Furniture,Storage,277.23,20.89,5
+456,31-03-2025,North,Furniture,Chairs,526.03,-4.89,5
+457,01-04-2025,South,Furniture,Chairs,229.63,74.05,6
+458,02-04-2025,North,Technology,Binders,214.26,0.41,7
+459,03-04-2025,East,Technology,Chairs,265.77,68.16,9
+460,04-04-2025,East,Office Supplies,Storage,67.73,-98.54,5
+461,05-04-2025,East,Office Supplies,Binders,68.16,126.61,5
+462,06-04-2025,North,Office Supplies,Phones,513.12,-0.86,8
+463,07-04-2025,North,Office Supplies,Phones,284.21,49.62,8
+464,08-04-2025,East,Furniture,Storage,181.62,20.36,5
+465,09-04-2025,North,Furniture,Chairs,95.55,-79.72,6
+466,10-04-2025,East,Furniture,Binders,175.54,-58.72,8
+467,11-04-2025,West,Furniture,Phones,288.56,-6.01,5
+468,12-04-2025,East,Technology,Binders,162.09,-34.65,6
+469,13-04-2025,West,Technology,Storage,213.92,-92.57,2
+470,14-04-2025,West,Furniture,Storage,309.31,20.76,5
+471,15-04-2025,North,Office Supplies,Binders,133.95,-21.79,1
+472,16-04-2025,South,Furniture,Binders,163.01,-1.07,2
+473,17-04-2025,South,Office Supplies,Storage,128.16,-32.81,4
+474,18-04-2025,South,Technology,Storage,251.03,-4.33,3
+475,19-04-2025,North,Technology,Chairs,186.28,98.42,1
+476,20-04-2025,North,Office Supplies,Phones,54.56,50.85,8
+477,21-04-2025,West,Furniture,Chairs,226.51,63.28,3
+478,22-04-2025,West,Furniture,Binders,272.18,22.65,1
+479,23-04-2025,South,Office Supplies,Phones,173.19,54.31,2
+480,24-04-2025,West,Furniture,Chairs,807.5,-10.17,9
+481,25-04-2025,North,Furniture,Phones,142.06,71.48,2
+482,26-04-2025,West,Technology,Chairs,68.11,-34.26,2
+483,27-04-2025,North,Office Supplies,Binders,88.21,-64.12,6
+484,28-04-2025,South,Furniture,Storage,103.8,-24.36,7
+485,29-04-2025,East,Technology,Phones,235.99,10.04,7
+486,30-04-2025,East,Furniture,Binders,137.64,-26.22,9
+487,01-05-2025,North,Furniture,Binders,136.79,22.19,2
+488,02-05-2025,East,Office Supplies,Storage,62.55,-67.96,6
+489,03-05-2025,South,Furniture,Storage,152.35,-0.55,6
+490,04-05-2025,West,Technology,Storage,214.38,41.29,7
+491,05-05-2025,West,Furniture,Phones,101.55,-5.89,1
+492,06-05-2025,West,Office Supplies,Storage,179.73,-17.09,4
+493,07-05-2025,South,Furniture,Phones,193.44,42.52,8
+494,08-05-2025,East,Furniture,Storage,78.84,80.56,3
+495,09-05-2025,South,Office Supplies,Chairs,387.36,47.48,1
+496,10-05-2025,East,Furniture,Chairs,296.12,8.72,8
+497,11-05-2025,West,Furniture,Binders,199.35,27.56,8
+498,12-05-2025,East,Office Supplies,Chairs,170.74,76.92,7
+499,13-05-2025,South,Furniture,Storage,155.06,68.88,8
+500,14-05-2025,East,Technology,Phones,146.69,21.26,1

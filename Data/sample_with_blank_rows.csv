@@ -1,0 +1,9 @@
+
+
+
+emp_id,name,job_title,dept,sal,loc,left
+E001,  Alice,Sales Executive,Sales,72000,NY,No
+E002,Mark,Software Engineer,Engg,95000,SFO,No
+E003,Linda,HR Manager,HR,86000,Chicago,Yes
+E004,David,DevOps Engineer,Engg,91000,Austin,No
+E005,Susan,Account Manager,Sales,80000,Boston,Yes

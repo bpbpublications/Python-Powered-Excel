@@ -1,0 +1,21 @@
+name: excel_python
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.14
+  - numpy=2.4.2
+  - matplotlib=3.10.8
+  - seaborn=0.13.2
+  - plotly=6.5.2
+  - pandas=3.0.0
+  - numpy-financial=1.0.0
+  - openpyxl=3.1.5
+  - xlsxwriter=3.2.9
+  - xlrd=2.0.2
+  - xlwt=1.3.0
+  - xlutils=2.0.0
+  - pyxlsb=1.0.10
+  - xlwings=0.33.20
+  - spyder-kernels=3.0
+  - lxml=6.0.2

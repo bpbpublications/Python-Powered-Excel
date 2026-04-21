@@ -1,0 +1,4 @@
+name,age	location;salary
+Alice,30	NY;70000
+Bob,25	LA;60000
+Charlie,35	TX;80000

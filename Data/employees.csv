@@ -1,0 +1,21 @@
+emp_id,name,job_title,dept,sal,loc,left
+E001,  Alice,Sales Executive,Sales,72000,NY,No
+E002,Mark,Software Engineer,Engg,95000,SFO,No
+E003,Linda,HR Manager,HR,86000,Chicago,Yes
+E004,David,DevOps Engineer,Engg,91000,Austin,No
+E005,Susan,Account Manager,Sales,80000,Boston,Yes
+E006,Tom,Software Engineer,Engg,98000,NY,No
+E007,Angela,Recruiter,HR,67000,Chicago,No
+E008,James,Data Scientist,Engg,105000,SFO,No
+E009,Nina,Sales Executive,Sales,73000,Boston,Yes
+E010,Robert,Software Engineer,Engg,94000,Austin,No
+E011,Emma,Marketing Analyst,Mktg,71000,NY,No
+E012,Liam,Marketing Manager,Mktg,88000,Chicago,Yes
+E013,Olivia,HR Assistant,HR,62000,Boston,Yes
+E014,Noah,Account Manager,Sales,82000,NY,Yes
+E015,Mia,Data Analyst,Engg,89000,SFO,Yes
+E016,Jacob,Content Strategist,Mktg,76000,Austin,No
+E017,Isabella,DevOps Engineer,Engg,92000,NY,No
+E018,Ethan,SEO Specialist,Mktg,73000,Chicago,Yes
+E019,Sophia,Sales Executive,Sales,71000,Boston,Yes
+E020,Michael,HR Manager,HR,87000,Chicago,No
